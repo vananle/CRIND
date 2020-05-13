@@ -12,13 +12,12 @@ The following instructions will get you a copy and run the proposed CRIND model.
 ### Prerequisites
 
 1. Extract the code
-
- The password to extract the code in included in the paper.
+ 
+ You need to extract the file "crind\_code.zip"
 
 2. Obtain the dataset
 
- You need to get a copy of the AbileneTM, AbileneLL and BeijingAQ dataset.  
- The url to download password to extract the dataset is provided in the paper.
+ You need to get a copy of the AbileneTM, AbileneLL and BeijingAQ dataset ([Mendeley - Missing Network Traffic Data v1][dataset])
 
 3. Directory structure
 
@@ -58,4 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 [globecom2020]: https://globecom2020.ieee-globecom.org/
 [pytorch]: https://pytorch.org/
-
+[dataset]: https://data.mendeley.com/datasets/yp246btnc6/draft?a=80e23ef1-446a-4526-be26-e9642b4938ea
